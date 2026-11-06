@@ -7,25 +7,12 @@ The program simulates a coffee machine where users can order drinks, insert coin
 
 Features
 
-Three drink options: Espresso, Latte and Cappuccino.
-
-Coin processing and change calculation.
-
-Resource availability checking.
-
-Tracks available ingredients.
-
-Displays a resource report.
+Three drink options: Espresso, Latte and Cappuccino. Coin processing and change calculation, Resource availability checking.
+Tracks available ingredients. Displays a resource report.
 
 Concepts Used
 
-Classes and Objects
-
-Methods and Attributes
-
-Object-Oriented Programming
-
-Loops and Conditional Statements
+Classes and Objects, Methods and Attributes, Object-Oriented Programming, Loops and Conditional Statements
 
 How to Run
 
